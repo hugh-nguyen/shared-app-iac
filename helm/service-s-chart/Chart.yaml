@@ -1,0 +1,4 @@
+apiVersion: v2
+name: shared-app-service-s-chart
+description: Helm chart to deploy service-s
+version: 0.1.0
